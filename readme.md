@@ -1,41 +1,29 @@
-# TON Wallet
-
-TON Wallet is a free client-side interface for interact with The Open Network blockchain.
-
-- [Website (wallet.ton.org)](https://wallet.ton.org)
-- [Chrome extension (also available for any Chromium-based browser)](https://chrome.google.com/webstore/detail/ton-wallet/nphplpgoakhhjchkkhmiggakijnkhfnd)
-- Firefox Add-on (so far only manual build from source)
-- Safari extension (so far only manual build from source
-
-## Security
-
-Private keys do not leave your device, the keys are stored in the browser memory, encrypted with a password that is entered during transaction generation.
-
-## Issues and proposals
-
-Please, post your issues and proposals as Issues in this repository.
-
-## Switch between mainnet and testnet
-
-- Support from 1.1.35 version
-- Open menu in right-top corner and select `About` item
-- Click on `Version:` label with Shift key pressed
-
-## Development
-
-See [build](build) project directory.
-
-## Support browsers:
-
-- Chrome (and Chromium-based) 55+ for website version, 88+ for extension
-- Firefox 63+
-- Safari 11+ (MacOS 10.12+) for website version, 14+ for extension
-- Safari iOS 11+
-- Edge 79+
-- Opera 42+
-- Chrome for Android 55+
-- Android 5+ browser
-- Samsung Internet 6+
-- Opera Mobile 64+
-- UC Browser 12.12+
-- Firefox for Android 63+
+{
+  "source": "0:E8FA2634A24AEF18ECB5FD4FC71A21B9E95F05768F8D9733C44ED598DB106C4C",
+  "valid_until": 1658253458,
+  "messages": [
+    {
+      "address": "UQAsjncnZnaYCe36qt4we5p67mO9Q4NY204Cz9nuZ-ZxHG27",
+      "amount": "20000",
+      "stateInit": "base64bocblahblahblah==" //deploy contract
+    },{
+      "address": "0:{
+  "source": "0:E8FA2634A24AEF18ECB5FD4FC71A21B9E95F05768F8D9733C44ED598DB106C4C",
+  "valid_until": 1658253458,
+  "messages": [
+    {
+      "address": "0:412410771DA82CBA306A55FA9E0D43C9D245E38133CB58F1457DFB8D5CD8892F",
+      "amount": "20000000",
+      "stateInit": "base64bocblahblahblah==" //deploy contract
+    },{
+      "address": "0:E69F10CC84877ABF539F83F879291E5CA169451BA7BCE91A37A5CED3AB8080D3",
+      "amount": "60000000",
+      "payload": "base64bocblahblahblah==" //transfer nft to new deployed account 0:412410771DA82CBA306A55FA9E0D43C9D245E38133CB58F1457DFB8D5CD8892F
+    }
+  ]
+}",
+      "amount": "60000000",
+      "payload": "base64bocblahblahblah==" //transfer nft to new deployed account 0:412410771DA82CBA306A55FA9E0D43C9D245E38133CB58F1457DFB8D5CD8892F
+    }
+  ]
+}
