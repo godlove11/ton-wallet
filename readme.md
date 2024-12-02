@@ -5,7 +5,7 @@ TON Wallet is a free client-side interface for interact with The Open Network bl
 - [Website (wallet.ton.org)](https://wallet.ton.org)
 - [Chrome extension (also available for any Chromium-based browser)](https://chrome.google.com/webstore/detail/ton-wallet/nphplpgoakhhjchkkhmiggakijnkhfnd)
 - Firefox Add-on (so far only manual build from source)
-- Safari extension (so far only manual build from source)
+- Safari extension (so far only manual build from source
 
 ## Security
 
